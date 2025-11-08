@@ -1,0 +1,3 @@
+Accuracy: 0.4932  (over 221 facts)
+  S  P=0.500  R=0.500  F1=0.500  tp=56 fp=56 fn=56
+ NS  P=0.486  R=0.486  F1=0.486  tp=53 fp=56 fn=56
